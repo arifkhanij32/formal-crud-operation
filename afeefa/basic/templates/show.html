@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    {% load static %}
+    <style>
+        table,td,tr,th{
+            border: 2px solid black;
+            padding: 8px;
+            border-collapse: collapse;
+        }
+        table{
+            width: 30%;
+            margin: 60px;
+        }
+        #a{
+            font-size: 15px;
+            background-color: rgb(13, 10, 211);
+        }
+        #b{
+            background-color: rgb(236, 39, 105);
+        }
+        #c{
+            background-color: cyan;
+        }
+        #d{
+            background-color: orangered;
+        }
+        #e{
+            background-color: rgb(181, 181, 235);
+        }
+        #f{
+            background-color: rgb(247, 212, 212);
+        }
+    </style>
+</head>
+{% load static %}
+<body style="background-color: chartreuse;padding: 0;margin: 0;width: 90%;">
+    <table>
+        <tr id="a">
+            <th style="color: white;">S_NO</th>
+            <th style="color: white;">NAME</th>
+            <th style="color: white;">AGE</th>
+            <th style="color: white;">UPDATE</th>
+            <th style="color: white;">DELETE</th>
+        </tr>
+        {% for i in ans %}
+        <tr>
+            
+            <th id="b">{{i.S_NO}}</th>
+            <th id="c">{{i.NAME}}</th>
+            <th id="d">{{i.AGE}}</th>
+            <th id="e"><a href="{% url 'update' i.S_NO %}">update</a></th>
+            <th id="e"><a href="{% url 'delete' i.S_NO %}">delete</a></th>
+            
+        </tr>
+        {% endfor %}
+        
+    </table>
+</body>
+</html>

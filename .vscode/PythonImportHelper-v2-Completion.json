@@ -1,0 +1,542 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.asgi",
+        "description": "afeefa.afeefa.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "afeefa.afeefa.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-$u)d!8@b2vg73mf6whg)v4(byv0g7d^8h04s4!y)s90^fr!uxe'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-$u)d!8@b2vg73mf6whg)v4(byv0g7d^8h04s4!y)s90^fr!uxe'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'basic',",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'basic',\n]\nMIDDLEWARE = [",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'afeefa.urls'",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "ROOT_URLCONF = 'afeefa.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'afeefa.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'employees',  # Replace with your actual database name\n        'USER': 'root',                # Replace with the correct MySQL username\n        'PASSWORD': 'arifkhan',   # Replace with the correct password\n        'HOST': 'localhost',           # Keep as localhost unless using a remote DB",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'employees',  # Replace with your actual database name\n        'USER': 'root',                # Replace with the correct MySQL username\n        'PASSWORD': 'arifkhan',   # Replace with the correct password\n        'HOST': 'localhost',           # Keep as localhost unless using a remote DB\n        'PORT': '3306',                # Default MySQL port\n    }\n}",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.settings",
+        "description": "afeefa.afeefa.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "afeefa.afeefa.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.urls",
+        "description": "afeefa.afeefa.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\",include(\"basic.urls1\")),\n]",
+        "detail": "afeefa.afeefa.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "afeefa.afeefa.wsgi",
+        "description": "afeefa.afeefa.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "afeefa.afeefa.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "afeefa.basic.migrations.0001_initial",
+        "description": "afeefa.basic.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Emp',\n            fields=[\n                ('S_NO', models.IntegerField(primary_key=True, serialize=False)),\n                ('NAME', models.CharField(max_length=40)),",
+        "detail": "afeefa.basic.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "BasicConfig",
+        "kind": 6,
+        "importPath": "afeefa.basic.apps",
+        "description": "afeefa.basic.apps",
+        "peekOfCode": "class BasicConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'basic'",
+        "detail": "afeefa.basic.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Emp",
+        "kind": 6,
+        "importPath": "afeefa.basic.models",
+        "description": "afeefa.basic.models",
+        "peekOfCode": "class Emp(models.Model):\n    S_NO=models.IntegerField(primary_key=True)\n    NAME=models.CharField(max_length=40)\n    AGE=models.IntegerField()",
+        "detail": "afeefa.basic.models",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "afeefa.basic.views",
+        "description": "afeefa.basic.views",
+        "peekOfCode": "def home(request):\n    if request.method==\"POST\":\n        s=request.POST[\"s\"]\n        n=request.POST[\"Name\"]\n        a=request.POST[\"Age\"]\n        k=Emp(S_NO=s,NAME=n,AGE=a)\n        k.save()  \n        return redirect('show')\n    return render(request,\"home.html\")\ndef show(request):",
+        "detail": "afeefa.basic.views",
+        "documentation": {}
+    },
+    {
+        "label": "show",
+        "kind": 2,
+        "importPath": "afeefa.basic.views",
+        "description": "afeefa.basic.views",
+        "peekOfCode": "def show(request):\n     all=Emp.objects.all()\n     return render(request,\"show.html\",{'ans':all})\ndef update(request,u):\n        k=Emp.objects.get(S_NO=u)\n        if request.method==\"POST\":\n            nu=request.POST[\"Name\"]\n            au=request.POST[\"Age\"]\n            k.NAME=nu\n            k.AGE=au",
+        "detail": "afeefa.basic.views",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "afeefa.basic.views",
+        "description": "afeefa.basic.views",
+        "peekOfCode": "def update(request,u):\n        k=Emp.objects.get(S_NO=u)\n        if request.method==\"POST\":\n            nu=request.POST[\"Name\"]\n            au=request.POST[\"Age\"]\n            k.NAME=nu\n            k.AGE=au\n            k.save()\n            return redirect('show')\n        else:",
+        "detail": "afeefa.basic.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "afeefa.basic.views",
+        "description": "afeefa.basic.views",
+        "peekOfCode": "def delete(request,l):\n     k=Emp.objects.get(S_NO=l)\n     k.delete()\n     return redirect('show')",
+        "detail": "afeefa.basic.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "afeefa.basic_lite.migrations.0001_initial",
+        "description": "afeefa.basic_lite.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Emp',\n            fields=[\n                ('S_NO', models.IntegerField(primary_key=True, serialize=False)),\n                ('NAME', models.CharField(max_length=40)),",
+        "detail": "afeefa.basic_lite.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "BasicLiteConfig",
+        "kind": 6,
+        "importPath": "afeefa.basic_lite.apps",
+        "description": "afeefa.basic_lite.apps",
+        "peekOfCode": "class BasicLiteConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'basic_lite'",
+        "detail": "afeefa.basic_lite.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Emp",
+        "kind": 6,
+        "importPath": "afeefa.basic_lite.models",
+        "description": "afeefa.basic_lite.models",
+        "peekOfCode": "class Emp(models.Model):\n    S_NO=models.IntegerField(primary_key=True)\n    NAME=models.CharField(max_length=40)\n    AGE=models.IntegerField()",
+        "detail": "afeefa.basic_lite.models",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "afeefa.basic_lite.views",
+        "description": "afeefa.basic_lite.views",
+        "peekOfCode": "def home(request):\n    return render(request,\"home2.html\")\ndef insert(request):\n    data=Emp(S_NO=1,NAME='ARIFKHAN',AGE=32)\n    data.save()\n    return redirect(\"select\")\ndef select(request):\n    data=Emp.objects.all()\n    return render(request,\"home2.html\",{\"result\":data})",
+        "detail": "afeefa.basic_lite.views",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "kind": 2,
+        "importPath": "afeefa.basic_lite.views",
+        "description": "afeefa.basic_lite.views",
+        "peekOfCode": "def insert(request):\n    data=Emp(S_NO=1,NAME='ARIFKHAN',AGE=32)\n    data.save()\n    return redirect(\"select\")\ndef select(request):\n    data=Emp.objects.all()\n    return render(request,\"home2.html\",{\"result\":data})",
+        "detail": "afeefa.basic_lite.views",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "kind": 2,
+        "importPath": "afeefa.basic_lite.views",
+        "description": "afeefa.basic_lite.views",
+        "peekOfCode": "def select(request):\n    data=Emp.objects.all()\n    return render(request,\"home2.html\",{\"result\":data})",
+        "detail": "afeefa.basic_lite.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "afeefa.manage",
+        "description": "afeefa.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'afeefa.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "afeefa.manage",
+        "documentation": {}
+    }
+]

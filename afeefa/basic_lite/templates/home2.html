@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Django_mysql</title>
+</head>
+<body>
+    <h1>Hi Arifkhan</h1>
+    {% if result %}
+    {% for data in result %}
+    <h1>{{data.S_NO}}</h1>
+    <h1>{{data.NAME}}</h1>
+    <h1>{{data.AGE}}</h1>
+    {% endfor %}
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Django_mysql</title>
+    <style>
+        table,td,tr,th{
+            border: 4px solid black;
+            padding: 32px;
+            border-collapse: collapse;
+            border-radius: 20px;
+            border-style: initial;
+            box-shadow: 5px 5px 10px rgb(219, 48, 182),
+            5px 5px 10px rgb(219, 48, 182),
+            5px 5px 10px rgb(219, 48, 182),
+            5px 5px 10px rgb(219, 48, 182),
+            5px 5px 10px rgb(219, 48, 182);
+            /* filter:drop-shadow(5px 5px 10px rgb(208, 236, 84)) */
+            
+    
+      }
+        table{
+            width: 20%;
+            margin: 5%;
+            margin-left: 65%;
+            line-height: 50px;
+            margin-top: auto;
+            
+        
+        
+        }
+        .a{
+            font-size: 15px;
+            background-color: rgb(236, 36, 190);
+           
+        }
+        input{
+            font-style: italic;
+            font-size: larger;
+            font-weight: 500;
+        }
+        .b{
+            color: black;
+            font-weight: 1000;
+            position: absolute; 
+            font-size: 15px;
+            text-transform: capitalize;
+        }
+        .c{
+            font-size: 20px;
+            color: black;
+        }
+        div.box{
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+
+    </style>
+</head>
+{% load static %}
+<body style= "background-color:rgb(5, 6, 10);">
+    
+    <table class="a">
+    <tr class="b"><th><h1>Hi Arifkhan</h1>
+    <form action="{% url 'home' %}" method="post">
+{% csrf_token %}
+    <input type="number" name="s" placeholder="Enter the S.No"> <br>    
+       <input type="text" name="Name" placeholder="Enter the Name"><br>
+       <input type="number" name="Age" placeholder="Enter the Age" ><br>
+       <input type="submit">
+
+    </form>
+
+    <a href="{% url 'show' %}" class="c">view</a></th></tr>
+</table>
+<img src="{% static 'images/natural.jpg' %}"  style="height: 20%;width: 20%;border-radius: 20px;">
+<img src="{% static 'images/rock.jpg' %}" style="height: 12%;width: 13%;border-radius: 20px;">
+<img src="{% static 'images/peakpx.jpg' %}" style="height: 18%;width: 13%;border-radius: 20px;"> 
+</body>
+</html>
